@@ -1,3 +1,5 @@
+## Create a new React app with Vite:
+
 ```
 
 yarn create vite
@@ -195,9 +197,7 @@ JavaScript
 Eğer `path` bulamazsa en üstte şöyle import edin:
 
 ```js
-
 import * as path from 'path'
-
 ```
 
 JavaScript
